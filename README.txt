@@ -1,0 +1,1 @@
+Extract BetterStats.zip to your C:\Users\%USERNAME%\AppData\LocalLow\Xobermon, LLC\Noble Fates\Mods folder
